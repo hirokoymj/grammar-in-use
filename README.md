@@ -44,10 +44,12 @@
 5. It was cold, so I shut the window.
 ```
 
+## ![](1.png)
+
+## ![](2.png)
+
+![](3.png)
+
 ## Unit 7-18: Present perfect and past
-
-```
-
-```
 
 ## Unit 19-25: Future
