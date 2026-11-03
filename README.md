@@ -2,6 +2,8 @@
 
 ## Unit 1-6: Present and Past
 
+## Unit 7-18: Present perfect and past
+
 ```
 ===1. Present continuous
 - I am doing
@@ -30,6 +32,25 @@
 
 ===5. Past (I did)
 - past == point of time
+
+===6. Past contiuous
+- I was doing
+- The action had already started before this time, but not finished
+- (started doing)===(doing)===(finished doing)
+- past + past continuous
+- When Karen arrived, we were having dinner (we had already started when Karen arrived)
+- when Karen arrived, we had dinner. (Karren arrived, and then we had dinner)
+
+===7. Presetn perfect
+- I have done
+- He has lost his key = He lost it recently, and he still doesn't find it.
+- connection with now
+- the action in the past has a result now
+- I've lost it (=I don't have it now)
+- she's gone out (=She is out now)
+- Just- a short time
+- Already
+- Yet = expecting, question or negative sentences
 ```
 
 #### Example of Unit
@@ -49,7 +70,5 @@
 ## ![](2.png)
 
 ![](3.png)
-
-## Unit 7-18: Present perfect and past
 
 ## Unit 19-25: Future
